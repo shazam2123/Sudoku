@@ -1,8 +1,8 @@
 # Sudoku
 Sudoku Generator
 
-This Java console program generates a valid solved 9 by 9 Sudoku board and prints it in a clear format.
-It uses a 2D array, an ArrayList, and methods to build the board without hard-coding the final solution.
+This Java console program generates a valid solved 9 by 9 Sudoku board and prints it out into the console.
+It uses a 2D array, an ArrayList, and methods to build the board that is unique each time.
 
 How to Run:
 1. Save the file as SudokuGenerator.java.
